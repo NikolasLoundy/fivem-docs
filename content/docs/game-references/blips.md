@@ -57,7 +57,7 @@ Blips
 </style>
 
 <div class="blips">
-<div class="blip"><span><img src="/blips/radar_higher.png" alt="radar_higher"><br><strong>0</strong><br>radar_higher</span></div>
+<div class="blip"><span><img src="https://www.pinclipart.com/picdir/middle/118-1183463_souvlaki-pita-chicken-4-70-euro-souvlaki-clipart.png" alt="radar_higher"><br><strong>0</strong><br>radar_higher</span></div>
 <div class="blip"><span><img src="/blips/radar_level.png" alt="radar_level"><br><strong>1</strong><br>radar_level</span></div>
 <div class="blip"><span><img src="/blips/radar_lower.png" alt="radar_lower"><br><strong>2</strong><br>radar_lower</span></div>
 <div class="blip"><span><img src="/blips/radar_police_ped.png" alt="radar_police_ped"><br><strong>3</strong><br>radar_police_ped</span></div>
